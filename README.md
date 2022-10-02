@@ -1,6 +1,6 @@
 # Scrumdinger
 
-Scrumdinger is aSwiftUI app that shows all the scrums and it's attendees for their scrum meetings.
+Scrumdinger is a SwiftUI app that shows all the scrums and it's attendees for their scrum meetings.
 
 Scrums are short meetings where each attendee discusses what they accomplished yesterday, what they are working on today, and any obstacles that might impact their work.
 
